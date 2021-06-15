@@ -1,0 +1,13 @@
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\bin\Debug\netcoreapp3.1\Exercício 6_vetores.exe
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\bin\Debug\netcoreapp3.1\Exercício 6_vetores.deps.json
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\bin\Debug\netcoreapp3.1\Exercício 6_vetores.runtimeconfig.json
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\bin\Debug\netcoreapp3.1\Exercício 6_vetores.runtimeconfig.dev.json
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\bin\Debug\netcoreapp3.1\Exercício 6_vetores.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\bin\Debug\netcoreapp3.1\Exercício 6_vetores.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\obj\Debug\netcoreapp3.1\Exercício 6_vetores.csprojAssemblyReference.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\obj\Debug\netcoreapp3.1\Exercício 6_vetores.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\obj\Debug\netcoreapp3.1\Exercício 6_vetores.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\obj\Debug\netcoreapp3.1\Exercício 6_vetores.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\obj\Debug\netcoreapp3.1\Exercício 6_vetores.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\obj\Debug\netcoreapp3.1\Exercício 6_vetores.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Exercício 6_vetores\Exercício 6_vetores\obj\Debug\netcoreapp3.1\Exercício 6_vetores.genruntimeconfig.cache
